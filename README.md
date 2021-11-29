@@ -1,0 +1,1 @@
+# Finglish-in-Persian-discord-bot
