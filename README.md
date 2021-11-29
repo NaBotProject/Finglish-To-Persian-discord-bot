@@ -1,1 +1,1 @@
-# Finglish-in-Persian-discord-bot
+# Finglish-to-Persian-discord-bot
