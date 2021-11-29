@@ -21,7 +21,7 @@ async def on_message(message):
         my_string=message.content
         first = my_string.split('\n', 1)[0]
         second_line = my_string.split('\n', 1)[1]
-        if first=="$فینگلیش" or first=="$Finglish":
+        if first=="$Finglish":
             from parsivar import Normalizer
             my_normalizer = Normalizer(pinglish_conversion_needed=True)
             out_text=(my_normalizer.normalize(second_line))
