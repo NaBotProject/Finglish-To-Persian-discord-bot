@@ -1,5 +1,5 @@
 # Finglish-to-Persian-discord-bot
-You can convert Finglish text to Persian
+You can convert Finglish text to Persian Language
 
 An .env file Make and put a token in it.
 
