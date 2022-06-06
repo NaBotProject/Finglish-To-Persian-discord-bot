@@ -11,6 +11,6 @@ You can now run main.py
 And in the discord, deliver the text as follows:
 
 ```
-$Finglish 
+$finglish 
 Finglish text
 ```
