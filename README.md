@@ -15,4 +15,4 @@ $finglish
 Finglish text
 ```
 
-![Finglish-To-Persian-discord-bot](https://user-images.githubusercontent.com/83414472/172142924-b11a7ac5-7658-4ed5-a66c-b3a58a3d7a41.gif)
+![Finglish-To-Persian-discord-bot](https://user-images.githubusercontent.com/83414472/172143064-e074c87f-c679-4307-ba74-22a4a531b4e8.gif)
